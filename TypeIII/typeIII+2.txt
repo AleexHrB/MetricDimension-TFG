@@ -1,0 +1,297 @@
+r = s = 1 , t = 3
+Metric Dimension: 3
+Resolving Set: 2 3 4 
+r = s = 2 , t = 4
+Metric Dimension: 3
+Resolving Set: 4 6 7 
+r = s = 3 , t = 5
+Metric Dimension: 3
+Resolving Set: 6 10 12 
+r = s = 4 , t = 6
+Metric Dimension: 3
+Resolving Set: 8 12 13 
+r = s = 5 , t = 7
+Metric Dimension: 3
+Resolving Set: 10 15 16 
+r = s = 6 , t = 8
+Metric Dimension: 3
+Resolving Set: 12 18 19 
+r = s = 7 , t = 9
+Metric Dimension: 3
+Resolving Set: 14 21 22 
+r = s = 8 , t = 10
+Metric Dimension: 3
+Resolving Set: 16 24 25 
+r = s = 9 , t = 11
+Metric Dimension: 3
+Resolving Set: 18 27 28 
+r = s = 10 , t = 12
+Metric Dimension: 3
+Resolving Set: 20 30 31 
+r = s = 11 , t = 13
+Metric Dimension: 3
+Resolving Set: 22 33 34 
+r = s = 12 , t = 14
+Metric Dimension: 3
+Resolving Set: 24 36 37 
+r = s = 13 , t = 15
+Metric Dimension: 3
+Resolving Set: 26 39 40 
+r = s = 14 , t = 16
+Metric Dimension: 3
+Resolving Set: 28 42 43 
+r = s = 15 , t = 17
+Metric Dimension: 3
+Resolving Set: 30 45 46 
+r = s = 16 , t = 18
+Metric Dimension: 3
+Resolving Set: 32 48 49 
+r = s = 17 , t = 19
+Metric Dimension: 3
+Resolving Set: 34 51 52 
+r = s = 18 , t = 20
+Metric Dimension: 3
+Resolving Set: 36 54 55 
+r = s = 19 , t = 21
+Metric Dimension: 3
+Resolving Set: 38 57 58 
+r = s = 20 , t = 22
+Metric Dimension: 3
+Resolving Set: 40 60 61 
+r = s = 21 , t = 23
+Metric Dimension: 3
+Resolving Set: 42 63 64 
+r = s = 22 , t = 24
+Metric Dimension: 3
+Resolving Set: 44 66 67 
+r = s = 23 , t = 25
+Metric Dimension: 3
+Resolving Set: 46 69 70 
+r = s = 24 , t = 26
+Metric Dimension: 3
+Resolving Set: 48 72 73 
+r = s = 25 , t = 27
+Metric Dimension: 3
+Resolving Set: 50 75 76 
+r = s = 26 , t = 28
+Metric Dimension: 3
+Resolving Set: 52 78 79 
+r = s = 27 , t = 29
+Metric Dimension: 3
+Resolving Set: 54 81 82 
+r = s = 28 , t = 30
+Metric Dimension: 3
+Resolving Set: 56 84 85 
+r = s = 29 , t = 31
+Metric Dimension: 3
+Resolving Set: 58 87 88 
+r = s = 30 , t = 32
+Metric Dimension: 3
+Resolving Set: 60 90 91 
+r = s = 31 , t = 33
+Metric Dimension: 3
+Resolving Set: 62 93 94 
+r = s = 32 , t = 34
+Metric Dimension: 3
+Resolving Set: 64 96 97 
+r = s = 33 , t = 35
+Metric Dimension: 3
+Resolving Set: 66 99 100 
+r = s = 34 , t = 36
+Metric Dimension: 3
+Resolving Set: 68 102 103 
+r = s = 35 , t = 37
+Metric Dimension: 3
+Resolving Set: 70 105 106 
+r = s = 36 , t = 38
+Metric Dimension: 3
+Resolving Set: 72 108 109 
+r = s = 37 , t = 39
+Metric Dimension: 3
+Resolving Set: 74 111 112 
+r = s = 38 , t = 40
+Metric Dimension: 3
+Resolving Set: 76 114 115 
+r = s = 39 , t = 41
+Metric Dimension: 3
+Resolving Set: 78 117 118 
+r = s = 40 , t = 42
+Metric Dimension: 3
+Resolving Set: 80 120 121 
+r = s = 41 , t = 43
+Metric Dimension: 3
+Resolving Set: 82 123 124 
+r = s = 42 , t = 44
+Metric Dimension: 3
+Resolving Set: 84 126 127 
+r = s = 43 , t = 45
+Metric Dimension: 3
+Resolving Set: 86 129 130 
+r = s = 44 , t = 46
+Metric Dimension: 3
+Resolving Set: 88 132 133 
+r = s = 45 , t = 47
+Metric Dimension: 3
+Resolving Set: 90 135 136 
+r = s = 46 , t = 48
+Metric Dimension: 3
+Resolving Set: 92 138 139 
+r = s = 47 , t = 49
+Metric Dimension: 3
+Resolving Set: 94 141 142 
+r = s = 48 , t = 50
+Metric Dimension: 3
+Resolving Set: 96 144 145 
+r = s = 49 , t = 51
+Metric Dimension: 3
+Resolving Set: 98 147 148 
+r = s = 50 , t = 52
+Metric Dimension: 3
+Resolving Set: 100 150 151 
+r = s = 51 , t = 53
+Metric Dimension: 3
+Resolving Set: 102 153 154 
+r = s = 52 , t = 54
+Metric Dimension: 3
+Resolving Set: 104 156 157 
+r = s = 53 , t = 55
+Metric Dimension: 3
+Resolving Set: 106 159 160 
+r = s = 54 , t = 56
+Metric Dimension: 3
+Resolving Set: 108 162 163 
+r = s = 55 , t = 57
+Metric Dimension: 3
+Resolving Set: 110 165 166 
+r = s = 56 , t = 58
+Metric Dimension: 3
+Resolving Set: 112 168 169 
+r = s = 57 , t = 59
+Metric Dimension: 3
+Resolving Set: 114 171 172 
+r = s = 58 , t = 60
+Metric Dimension: 3
+Resolving Set: 116 174 175 
+r = s = 59 , t = 61
+Metric Dimension: 3
+Resolving Set: 118 177 178 
+r = s = 60 , t = 62
+Metric Dimension: 3
+Resolving Set: 120 180 181 
+r = s = 61 , t = 63
+Metric Dimension: 3
+Resolving Set: 122 183 184 
+r = s = 62 , t = 64
+Metric Dimension: 3
+Resolving Set: 124 186 187 
+r = s = 63 , t = 65
+Metric Dimension: 3
+Resolving Set: 126 189 190 
+r = s = 64 , t = 66
+Metric Dimension: 3
+Resolving Set: 128 192 193 
+r = s = 65 , t = 67
+Metric Dimension: 3
+Resolving Set: 130 195 196 
+r = s = 66 , t = 68
+Metric Dimension: 3
+Resolving Set: 132 198 199 
+r = s = 67 , t = 69
+Metric Dimension: 3
+Resolving Set: 134 201 202 
+r = s = 68 , t = 70
+Metric Dimension: 3
+Resolving Set: 136 204 205 
+r = s = 69 , t = 71
+Metric Dimension: 3
+Resolving Set: 138 207 208 
+r = s = 70 , t = 72
+Metric Dimension: 3
+Resolving Set: 140 210 211 
+r = s = 71 , t = 73
+Metric Dimension: 3
+Resolving Set: 142 213 214 
+r = s = 72 , t = 74
+Metric Dimension: 3
+Resolving Set: 144 216 217 
+r = s = 73 , t = 75
+Metric Dimension: 3
+Resolving Set: 146 219 220 
+r = s = 74 , t = 76
+Metric Dimension: 3
+Resolving Set: 148 222 223 
+r = s = 75 , t = 77
+Metric Dimension: 3
+Resolving Set: 150 225 226 
+r = s = 76 , t = 78
+Metric Dimension: 3
+Resolving Set: 152 228 229 
+r = s = 77 , t = 79
+Metric Dimension: 3
+Resolving Set: 154 231 232 
+r = s = 78 , t = 80
+Metric Dimension: 3
+Resolving Set: 156 234 235 
+r = s = 79 , t = 81
+Metric Dimension: 3
+Resolving Set: 158 237 238 
+r = s = 80 , t = 82
+Metric Dimension: 3
+Resolving Set: 160 240 241 
+r = s = 81 , t = 83
+Metric Dimension: 3
+Resolving Set: 162 243 244 
+r = s = 82 , t = 84
+Metric Dimension: 3
+Resolving Set: 164 246 247 
+r = s = 83 , t = 85
+Metric Dimension: 3
+Resolving Set: 166 249 250 
+r = s = 84 , t = 86
+Metric Dimension: 3
+Resolving Set: 168 252 253 
+r = s = 85 , t = 87
+Metric Dimension: 3
+Resolving Set: 170 255 256 
+r = s = 86 , t = 88
+Metric Dimension: 3
+Resolving Set: 172 258 259 
+r = s = 87 , t = 89
+Metric Dimension: 3
+Resolving Set: 174 261 262 
+r = s = 88 , t = 90
+Metric Dimension: 3
+Resolving Set: 176 264 265 
+r = s = 89 , t = 91
+Metric Dimension: 3
+Resolving Set: 178 267 268 
+r = s = 90 , t = 92
+Metric Dimension: 3
+Resolving Set: 180 270 271 
+r = s = 91 , t = 93
+Metric Dimension: 3
+Resolving Set: 182 273 274 
+r = s = 92 , t = 94
+Metric Dimension: 3
+Resolving Set: 184 276 277 
+r = s = 93 , t = 95
+Metric Dimension: 3
+Resolving Set: 186 279 280 
+r = s = 94 , t = 96
+Metric Dimension: 3
+Resolving Set: 188 282 283 
+r = s = 95 , t = 97
+Metric Dimension: 3
+Resolving Set: 190 285 286 
+r = s = 96 , t = 98
+Metric Dimension: 3
+Resolving Set: 192 288 289 
+r = s = 97 , t = 99
+Metric Dimension: 3
+Resolving Set: 194 291 292 
+r = s = 98 , t = 100
+Metric Dimension: 3
+Resolving Set: 196 294 295 
+r = s = 99 , t = 101
+Metric Dimension: 3
+Resolving Set: 198 297 298 

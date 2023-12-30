@@ -1,0 +1,54 @@
+Time for 1 
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.004s
+
+Time for 2 
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.004s
+
+Time for 3 
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.007s
+
+Time for 4 
+
+real	0m0.049s
+user	0m0.432s
+sys	0m0.020s
+
+Time for 5 
+
+real	0m0.027s
+user	0m0.074s
+sys	0m0.025s
+
+Time for 6 
+
+real	0m0.118s
+user	0m0.769s
+sys	0m0.047s
+
+Time for 7 
+
+real	0m0.460s
+user	0m1.677s
+sys	0m0.105s
+
+Time for 8 
+
+real	0m4.015s
+user	0m19.110s
+sys	0m0.367s
+
+Time for 9 
+
+real	5m3.305s
+user	55m56.635s
+sys	0m15.901s
+
