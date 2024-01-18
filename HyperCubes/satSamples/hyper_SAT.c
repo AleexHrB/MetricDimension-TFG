@@ -42,9 +42,9 @@ int main(int argc, char** argv) {
 
     unsigned int *v = (unsigned int *) malloc((1 << (exp + exp)) * sizeof(unsigned int));
 
-    #pragma omp parallel
-    #pragma omp single
-    #pragma omp taskloop nogroup
+#pragma omp parallel
+#pragma omp single
+#pragma omp taskloop nogroup
     for (unsigned int i = 0; i < n; ++i) {
         unsigned int col = i << exp;
         for (unsigned int j = 0; j < n; ++j) v[col + j] = n;

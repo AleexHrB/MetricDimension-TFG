@@ -110,8 +110,7 @@ void solve_typeIII() {
 
     for (unsigned int i = 1; i < MAX_ITER; ++i) {
 
-        cout << "r = s = " << i << " , t = " << i + 2 << endl;
-        md.generate_typeIII(i,i,i+2);
+        md.generate_typeIII(1,i+1,i+1);
         md.solve();
         cout << "Metric Dimension: " << md.getDimension() << endl;
         cout << "Resolving Set: ";
